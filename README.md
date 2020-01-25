@@ -8,3 +8,8 @@
 ### 2. [Questions where decision to attach and not attach an element is to be taken : Recursion](https://www.google.com "Google's Homepage")
    1. [Return all subsequences of a string using recursion](/Return_Subsequences.cpp)
    2. [Print all subsequences of an array](https://www.google.com "Google's Homepage")
+
+
+## Data Structure Questions :
+   ### Linked List Questions :
+      ## [Reverse a linked list using a single parameter 'head'](/LinkedListReverse.py)
