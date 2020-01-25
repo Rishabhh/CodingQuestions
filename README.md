@@ -12,4 +12,4 @@
 
 ## Data Structure Questions :
    ### Linked List Questions :
-   1. [Reverse a linked list using a single parameter 'head'](https://www.google.com "Google's Homepage")
+   1. [Reverse a linked list recursively using a single parameter in the function call 'head'](/LinkedList_ReverseRecursively.py)
